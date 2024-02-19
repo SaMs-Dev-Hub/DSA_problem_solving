@@ -16,7 +16,7 @@ class Solution{
         // }
 
         let max = Math.min(...A);    //Expected Time Complexity: O(N)
-  let min = Math.max(...A);
+        let min = Math.max(...A);
         return max+min
       
     }
