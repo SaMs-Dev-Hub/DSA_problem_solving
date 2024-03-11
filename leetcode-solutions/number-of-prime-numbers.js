@@ -1,4 +1,4 @@
-
+// using Sieve of Eratosthenes algorithams
 var countPrimes = function(n) {
     let booleans = []
    let count = 0
