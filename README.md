@@ -5,13 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
