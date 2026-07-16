@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
