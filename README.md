@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
