@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -38,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
