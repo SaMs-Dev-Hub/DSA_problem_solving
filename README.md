@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0013-roman-to-integer) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/SaMs-Dev-Hub/DSA_problem_solving/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
